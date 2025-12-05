@@ -15,5 +15,5 @@ follow/unfollow, JWT authentication and swagger documentation.
 ## Installation
 ```bash
 git clone git remote add origin https://github.com/muhammadNahidul/social-media-API.git
-cd project
+cd social-media-API-main
 pip install -r requirements.txt
