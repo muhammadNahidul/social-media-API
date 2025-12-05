@@ -1,0 +1,19 @@
+# SOCIAL MEDIA API
+# Django Social Media API
+
+A professional DRF API with authentication, profile system, 
+follow/unfollow, JWT authentication and swagger documentation.
+
+## Features
+✔ JWT Login / Register  
+✔ Email OTP Verify  
+✔ Profile Create / Update  
+✔ Follow/Unfollow System  
+✔ Private Profile Access  
+✔ Swagger API Docs  
+✔ DRF Spectacular Schema  
+
+## Installation
+```bash
+git clone git remote add origin https://github.com/muhammadNahidul/social-media-API.gitcd project
+pip install -r requirements.txt
