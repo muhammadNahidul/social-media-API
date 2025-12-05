@@ -1,0 +1,19 @@
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+staticfiles/
+.env
+
+# VSCode
+.vscode/
+
+# Python
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+# Mac / Linux
+.DS_Store
